@@ -216,3 +216,4 @@ x11-wm/xmonad
 dev-haskell/split
 sys-apps/pax-utils
 x11-apps/xdg-user-dirs
+gnome-desktop/vinagre
