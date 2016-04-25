@@ -1,3 +1,5 @@
 CHOST="x86_64-pc-linux-gnu"
 x86_64_pc_linux_gnu_CFLAGS="-march=native -pipe -O2"
 x86_64_pc_linux_gnu_CXXFLAGS="-march=native -pipe -O2"
+armv6_unknown_linux_gnueabihf_CFLAGS="-O2 -pipe -mcpu=arm1176jzf-s -mfpu=vfp -mfloat-abi=hard"
+armv6_unknown_linux_gnueabihf_CXXFLAGS="-O2 -pipe -mcpu=arm1176jzf-s -mfpu=vfp -mfloat-abi=hard"
