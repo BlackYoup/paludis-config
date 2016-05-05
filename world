@@ -141,7 +141,6 @@ app-arch/unrar
 sys-power/pm-utils
 sys-fs/lvm2
 dev-db/postgresql
-net-irc/hexchat
 dev-python/pip
 office-libs/libfreehand
 sys-boot/gnu-efi
@@ -218,3 +217,5 @@ sys-apps/pax-utils
 x11-apps/xdg-user-dirs
 gnome-desktop/vinagre
 sys-process/iotop
+net-irc/irssi
+dev-perl/Text-CharWidth
