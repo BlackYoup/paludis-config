@@ -59,7 +59,6 @@ repository/CleverCloud
 repository/mrothe
 repository/nakamuray
 repository/mixi
-app-virtualization/docker
 app-virtualization/lxc
 repository/compnerd
 dev-java/maven
@@ -80,7 +79,6 @@ app-virtualization/virtualbox-bin
 dev-libs/talloc
 net-fs/cifs-utils
 dev-libs/libaio
-sys-apps/multiload
 repository/drayevarg
 x11-libs/libvdpau-va-gl
 x11-apps/xset
@@ -190,12 +188,10 @@ repository/tridactyla
 games-education/klavaro
 base/antiword
 dev-scm/subversion
-dev-tex/luatex
 repository/ruby
 dev-ruby/bunny
 net-www/chromium-stable-widevine-plugin
 net-www/lynx
-dev-python/letsencrypt
 net-libs/libfilezilla
 sys-apps/shadow
 dev-python/neovim-python
@@ -219,3 +215,12 @@ gnome-desktop/vinagre
 sys-process/iotop
 net-irc/irssi
 dev-perl/Text-CharWidth
+app-virtualization/docker
+net-irc/weechat
+dev-lang/openjdk9
+x11-apps/i3lock
+dev-python/certbot
+app-text/wgetpaste
+x11-dri/bumblebee
+app-misc/tmuxinator
+app-text/jq
